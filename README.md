@@ -38,8 +38,8 @@ Avant de pouvoir exécuter ce projet, vous devez avoir installé les éléments 
 Expliquez ici comment utiliser ou jouer à votre jeu. Par exemple :
 
 - Utilisez les **flèches directionnelles** pour déplacer votre personnage.
-- Appuyez sur **Espace** pour sauter.
-- Évitez les obstacles et atteignez l'objectif final pour gagner.
+- Appuyez sur **Espace** pour Tirer.
+- Détruisé les obstacles et atteignez l'objectif final pour gagner.
 
 ## 📂 Structure du projet
 
